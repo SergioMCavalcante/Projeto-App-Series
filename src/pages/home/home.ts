@@ -3,6 +3,7 @@ import { NavController } from 'ionic-angular';
 import { TwdServiceProvider } from '../../providers/twd-service/twd-service';
 
 // home.ts em 27/07/2018
+// Volta atualizado
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
