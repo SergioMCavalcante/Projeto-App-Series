@@ -7,6 +7,7 @@ import { TwdServiceProvider } from '../../providers/twd-service/twd-service';
 // Alteração no home.ts
 // Nova alteração no home.ts
 // Alteracao 2
+// Alteracao 3
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
